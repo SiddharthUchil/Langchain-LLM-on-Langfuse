@@ -1,6 +1,8 @@
 # Langfuse: LLM Engineering Platform
 
-https://github.com/SiddharthUchil/Langchain-LLM-on-Langfuse/assets/36127139/b418f784-7d5c-43ec-b070-4fc6bbc87b95
+
+https://github.com/SiddharthUchil/Langchain-LLM-on-Langfuse/assets/36127139/5eb648c9-ba6c-4123-b678-ebe0c499de94
+
 
 ## Overview
 **Langfuse** is an open-source **LLM (Large Language Model) engineering platform** designed for debugging, analyzing, and iterating on LLM applications. Whether you're working with Python, JS/TS, OpenAI, or Langchain, Langfuse provides essential features to enhance your development process.
